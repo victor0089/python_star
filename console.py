@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class Property:
     def __init__(self, name, location, price, availability):
         self.name = name
