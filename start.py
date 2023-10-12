@@ -4,5 +4,5 @@ speed(11)
 a=1
 while True:
   forward(a)
-  Left(121)
+  left(121)
   a+=1
